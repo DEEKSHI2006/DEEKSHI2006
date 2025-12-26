@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Currently Learning JavaScript & AI Models: Building Smarter, Interactive Solutions 🤖✨**
 
-- 💬 Ask me about **python and nlp models**
+- 💬 Ask me about **python and web development**
 
 - 📫 How to reach me **sit23it096@sairamtap.edu.in**
 
