@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm S Deekshitha</h1>
 <h3 align="center">Engineer by Passion, Creator by Choice ⚙️✨</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deekshi2006" alt="deekshi2006" /></a> </p>
+
 
 - 🌱 I’m currently learning **Currently Learning JavaScript & AI Models: Building Smarter, Interactive Solutions 🤖✨**
 
